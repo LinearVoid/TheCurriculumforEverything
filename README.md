@@ -29,8 +29,8 @@ Is a curated list of the way to start learning everything.
     The Beginning part of FreeCodeCamp's HTML course </a></i>, or 
     <i><a href = "https://www.theodinproject.com/">The HTML part of the ODIN Project's course</a></i> 
    
-    <li>Learn CSS</li>
-    Then you would tell one that they need to learn CSS and you would give them resources on how to do that as well. So on and so on. 
+ <li>Learn CSS</li>
+ Then you would tell one that they need to learn CSS and you would give them resources on how to do that as well. So on and so on. 
 
 
    
